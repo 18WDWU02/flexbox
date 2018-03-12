@@ -29,13 +29,13 @@
 }
 
 .box-3{
-    flex: 3;
+    flex: 1;
     order:2;
 }
 
 #flexContainer2{
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
 }
 
 #flexContainer2 .box{
